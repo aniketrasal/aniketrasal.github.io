@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.67c4bf6d.css",
-    "main.js": "/static/js/main.cf0633c2.js",
+    "main.js": "/static/js/main.a07958d1.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Aniket-Rasal-Resume.jpg": "/static/media/Aniket-Rasal-Resume.82b94f5a8b3796b4a0e5.jpg",
     "static/media/myportfolio.png": "/static/media/myportfolio.55325e50ebf33359d9d2.png",
@@ -12,11 +12,11 @@
     "static/media/zee5.jpg": "/static/media/zee5.663640ee3fd7b37e5f4c.jpg",
     "index.html": "/index.html",
     "main.67c4bf6d.css.map": "/static/css/main.67c4bf6d.css.map",
-    "main.cf0633c2.js.map": "/static/js/main.cf0633c2.js.map",
+    "main.a07958d1.js.map": "/static/js/main.a07958d1.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67c4bf6d.css",
-    "static/js/main.cf0633c2.js"
+    "static/js/main.a07958d1.js"
   ]
 }
